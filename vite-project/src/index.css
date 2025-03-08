@@ -14,6 +14,10 @@ button {
   font-family: "Press Start 2P", system-ui;
 }
 
+.strikethrough {
+  text-decoration: line-through;
+}
+
 #root {
   min-height: 100vh;
   display: flex;
